@@ -29,6 +29,8 @@ namespace DataTypes_CharStringBoolTypes
             Console.WriteLine("my boolean value is {0}", myBool);
 
             Console.ReadKey();
+			
+			 /* for more information go to A-To-Z For LEarning channel in this link https://goo.gl/7SCOj3 */
         }
     }
 }
