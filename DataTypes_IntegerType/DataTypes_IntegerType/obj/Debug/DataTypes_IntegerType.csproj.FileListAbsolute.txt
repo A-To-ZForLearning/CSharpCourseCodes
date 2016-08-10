@@ -1,0 +1,6 @@
+D:\Visual Studio Codes\DataTypes_IntegerType\DataTypes_IntegerType\bin\Debug\DataTypes_IntegerType.exe.config
+D:\Visual Studio Codes\DataTypes_IntegerType\DataTypes_IntegerType\bin\Debug\DataTypes_IntegerType.exe
+D:\Visual Studio Codes\DataTypes_IntegerType\DataTypes_IntegerType\bin\Debug\DataTypes_IntegerType.pdb
+D:\Visual Studio Codes\DataTypes_IntegerType\DataTypes_IntegerType\obj\Debug\DataTypes_IntegerType.csprojResolveAssemblyReference.cache
+D:\Visual Studio Codes\DataTypes_IntegerType\DataTypes_IntegerType\obj\Debug\DataTypes_IntegerType.exe
+D:\Visual Studio Codes\DataTypes_IntegerType\DataTypes_IntegerType\obj\Debug\DataTypes_IntegerType.pdb
