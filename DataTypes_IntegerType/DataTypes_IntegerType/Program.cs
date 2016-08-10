@@ -36,7 +36,7 @@ namespace DataTypes_IntegerType
 				*/
 
 
-        }
+        
     }
     }
 }
