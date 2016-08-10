@@ -1,0 +1,6 @@
+D:\Visual Studio Codes\DataTypes_CharStringBoolTypes\DataTypes_CharStringBoolTypes\bin\Debug\DataTypes_CharStringBoolTypes.exe.config
+D:\Visual Studio Codes\DataTypes_CharStringBoolTypes\DataTypes_CharStringBoolTypes\bin\Debug\DataTypes_CharStringBoolTypes.exe
+D:\Visual Studio Codes\DataTypes_CharStringBoolTypes\DataTypes_CharStringBoolTypes\bin\Debug\DataTypes_CharStringBoolTypes.pdb
+D:\Visual Studio Codes\DataTypes_CharStringBoolTypes\DataTypes_CharStringBoolTypes\obj\Debug\DataTypes_CharStringBoolTypes.csprojResolveAssemblyReference.cache
+D:\Visual Studio Codes\DataTypes_CharStringBoolTypes\DataTypes_CharStringBoolTypes\obj\Debug\DataTypes_CharStringBoolTypes.exe
+D:\Visual Studio Codes\DataTypes_CharStringBoolTypes\DataTypes_CharStringBoolTypes\obj\Debug\DataTypes_CharStringBoolTypes.pdb
