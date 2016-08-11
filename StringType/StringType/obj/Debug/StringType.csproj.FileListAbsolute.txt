@@ -1,0 +1,6 @@
+D:\Visual Studio Codes\StringType\StringType\bin\Debug\StringType.exe.config
+D:\Visual Studio Codes\StringType\StringType\bin\Debug\StringType.exe
+D:\Visual Studio Codes\StringType\StringType\bin\Debug\StringType.pdb
+D:\Visual Studio Codes\StringType\StringType\obj\Debug\StringType.csprojResolveAssemblyReference.cache
+D:\Visual Studio Codes\StringType\StringType\obj\Debug\StringType.exe
+D:\Visual Studio Codes\StringType\StringType\obj\Debug\StringType.pdb
