@@ -1,0 +1,6 @@
+D:\Visual Studio Codes\Operators-Precedences\Operators-Precedences\bin\Debug\Operators-Precedences.exe.config
+D:\Visual Studio Codes\Operators-Precedences\Operators-Precedences\bin\Debug\Operators-Precedences.exe
+D:\Visual Studio Codes\Operators-Precedences\Operators-Precedences\bin\Debug\Operators-Precedences.pdb
+D:\Visual Studio Codes\Operators-Precedences\Operators-Precedences\obj\Debug\Operators-Precedences.csprojResolveAssemblyReference.cache
+D:\Visual Studio Codes\Operators-Precedences\Operators-Precedences\obj\Debug\Operators-Precedences.exe
+D:\Visual Studio Codes\Operators-Precedences\Operators-Precedences\obj\Debug\Operators-Precedences.pdb
