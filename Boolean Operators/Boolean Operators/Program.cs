@@ -30,6 +30,39 @@ namespace Boolean_Operators
   and Why?
      */
 
+
+
+
+            /*
+             
+       Highest       ++, −− (used as prefi xes); (), +, – (unary), !, ˜
+                     *, /, %
+                     +, –
+                     <<, >>
+                     <, >, <=, >=
+                     ==, !=
+                     &
+                     ^
+                     |
+                     &&
+                     ||
+                     =, *=, /=, %=, +=, −=, <<=, >>=, &=, ^=, |=
+       Lowest        ++, –– (used as suffi xes)
+             
+            
+            */
+
+
+
+
+
+
+
+
+
+
+
+
             /* for more information go to A-To-Z For LEarning channel in this link https://goo.gl/7SCOj3 */
         }
     }
