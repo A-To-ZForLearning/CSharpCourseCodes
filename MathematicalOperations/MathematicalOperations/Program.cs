@@ -29,7 +29,7 @@ namespace MathematicalOperations
             //Console.WriteLine("The result is {0}  The result2 is {1} The remaining is {2}", temp, temp2, temp3);
             Console.ReadKey();
 
-            /* for more information go to A-To-Z For LEarning channel in this link https://goo.gl/7SCOj3 */
+          /* for more information go to A-To-Z ForLearning channel in this link https://goo.gl/7SCOj3 */
         }
     }
 }

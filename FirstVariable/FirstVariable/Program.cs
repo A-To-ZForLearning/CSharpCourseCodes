@@ -13,6 +13,8 @@ namespace FirstVariable
             int x = 25;
             Console.WriteLine(" My Variable Value  = {0}", x);
             Console.ReadKey();
-        }
+        
+		/* for more information go to A-To-Z ForLearning channel in this link https://goo.gl/7SCOj3 */
+		}
     }
 }
