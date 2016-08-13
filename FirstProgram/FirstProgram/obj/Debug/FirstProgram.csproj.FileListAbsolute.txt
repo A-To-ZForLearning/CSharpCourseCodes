@@ -1,1 +1,7 @@
 D:\Visual Studio Codes\FirstProgram\FirstProgram\bin\Debug\FirstProgram.exe.config
+D:\LocalRepository\CSharpCourseCodes\FirstProgram\FirstProgram\bin\Debug\FirstProgram.exe.config
+D:\LocalRepository\CSharpCourseCodes\FirstProgram\FirstProgram\bin\Debug\FirstProgram.exe
+D:\LocalRepository\CSharpCourseCodes\FirstProgram\FirstProgram\bin\Debug\FirstProgram.pdb
+D:\LocalRepository\CSharpCourseCodes\FirstProgram\FirstProgram\obj\Debug\FirstProgram.csprojResolveAssemblyReference.cache
+D:\LocalRepository\CSharpCourseCodes\FirstProgram\FirstProgram\obj\Debug\FirstProgram.exe
+D:\LocalRepository\CSharpCourseCodes\FirstProgram\FirstProgram\obj\Debug\FirstProgram.pdb
