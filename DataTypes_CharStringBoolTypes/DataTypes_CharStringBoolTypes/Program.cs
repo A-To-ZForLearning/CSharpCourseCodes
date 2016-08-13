@@ -30,7 +30,7 @@ namespace DataTypes_CharStringBoolTypes
 
             Console.ReadKey();
 			
-			 /* for more information go to A-To-Z For LEarning channel in this link https://goo.gl/7SCOj3 */
+			 /* for more information go to A-To-Z ForLearning channel in this link https://goo.gl/7SCOj3 */
         }
     }
 }
