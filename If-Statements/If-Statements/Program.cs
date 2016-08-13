@@ -29,7 +29,7 @@ namespace If_Statements
 
 
 
-            int myVar1 = 9, myVAr2 = 7;
+           /* int myVar1 = 9, myVAr2 = 7;
 
             if ((myVar1 <= 7) || (myVAr2 >= 10))
             {
@@ -42,11 +42,29 @@ namespace If_Statements
 
                 Console.WriteLine("My Variables conditions is False");
             }
-            Console.ReadKey();
+            */
 
 
+ int myVar1 = 10;
+            string myResult;
 
-            Console.ReadKey();
+            if (myVar1 < 10)
+            {
+                myResult = "less than 10";
+                Console.WriteLine(myResult);
+            }
+            if (myVar1 > 10)
+            {
+                myResult = "Greater than 10";
+                Console.WriteLine(myResult);
+            }
+            if (myVar1 == 10)
+            {
+                myResult = "Equal 10";
+                Console.WriteLine(myResult);
+            }
+
+          Console.ReadKey();
 
             /*
              Q1/ 
