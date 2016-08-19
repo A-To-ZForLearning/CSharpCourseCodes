@@ -1,0 +1,9 @@
+Challenge 1 Solution
+---------------------
+To Store 1,000,000 you will need to 20bit because
+
+n=log(1000000)/log(2)
+n= 19.93 ---> 20bit     
+
+for more information visit
+http://www.youtube.com/c/AToZForLearning 
