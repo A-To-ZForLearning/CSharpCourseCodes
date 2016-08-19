@@ -1,0 +1,6 @@
+D:\Visual Studio Codes\Challenge6\Challenge6\bin\Debug\Challenge6.exe.config
+D:\Visual Studio Codes\Challenge6\Challenge6\bin\Debug\Challenge6.exe
+D:\Visual Studio Codes\Challenge6\Challenge6\bin\Debug\Challenge6.pdb
+D:\Visual Studio Codes\Challenge6\Challenge6\obj\Debug\Challenge6.csprojResolveAssemblyReference.cache
+D:\Visual Studio Codes\Challenge6\Challenge6\obj\Debug\Challenge6.exe
+D:\Visual Studio Codes\Challenge6\Challenge6\obj\Debug\Challenge6.pdb
