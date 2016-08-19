@@ -1,0 +1,6 @@
+D:\Visual Studio Codes\Challenge9\Challenge9\bin\Debug\Challenge9.exe.config
+D:\Visual Studio Codes\Challenge9\Challenge9\bin\Debug\Challenge9.exe
+D:\Visual Studio Codes\Challenge9\Challenge9\bin\Debug\Challenge9.pdb
+D:\Visual Studio Codes\Challenge9\Challenge9\obj\Debug\Challenge9.csprojResolveAssemblyReference.cache
+D:\Visual Studio Codes\Challenge9\Challenge9\obj\Debug\Challenge9.exe
+D:\Visual Studio Codes\Challenge9\Challenge9\obj\Debug\Challenge9.pdb
