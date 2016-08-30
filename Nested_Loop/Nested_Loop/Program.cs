@@ -26,6 +26,9 @@ namespace Nested_Loop
             //Q2 / Create Multiplication table from 1 - 6 for even number <=10
             //Q3 / Create Multiplication table from 1 - 6 for odd number  <=10
 
+ /*  for more information visit
+          http://www.youtube.com/c/AToZForLearning 
+ */
 
         }
     }
