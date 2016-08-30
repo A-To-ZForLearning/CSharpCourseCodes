@@ -1,0 +1,6 @@
+D:\Visual Studio Codes\Braek_Loop-ContinueCommand\Braek_Loop-ContinueCommand\bin\Debug\Braek_Loop-ContinueCommand.exe.config
+D:\Visual Studio Codes\Braek_Loop-ContinueCommand\Braek_Loop-ContinueCommand\bin\Debug\Braek_Loop-ContinueCommand.exe
+D:\Visual Studio Codes\Braek_Loop-ContinueCommand\Braek_Loop-ContinueCommand\bin\Debug\Braek_Loop-ContinueCommand.pdb
+D:\Visual Studio Codes\Braek_Loop-ContinueCommand\Braek_Loop-ContinueCommand\obj\Debug\Braek_Loop-ContinueCommand.csprojResolveAssemblyReference.cache
+D:\Visual Studio Codes\Braek_Loop-ContinueCommand\Braek_Loop-ContinueCommand\obj\Debug\Braek_Loop-ContinueCommand.exe
+D:\Visual Studio Codes\Braek_Loop-ContinueCommand\Braek_Loop-ContinueCommand\obj\Debug\Braek_Loop-ContinueCommand.pdb
