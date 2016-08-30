@@ -1,0 +1,6 @@
+D:\Visual Studio Codes\WhileLoop\WhileLoop\bin\Debug\WhileLoop.exe.config
+D:\Visual Studio Codes\WhileLoop\WhileLoop\bin\Debug\WhileLoop.exe
+D:\Visual Studio Codes\WhileLoop\WhileLoop\bin\Debug\WhileLoop.pdb
+D:\Visual Studio Codes\WhileLoop\WhileLoop\obj\Debug\WhileLoop.csprojResolveAssemblyReference.cache
+D:\Visual Studio Codes\WhileLoop\WhileLoop\obj\Debug\WhileLoop.exe
+D:\Visual Studio Codes\WhileLoop\WhileLoop\obj\Debug\WhileLoop.pdb
