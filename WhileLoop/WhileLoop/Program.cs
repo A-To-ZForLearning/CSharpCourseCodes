@@ -27,9 +27,19 @@ namespace WhileLoop
                 //Q1 Find how many exercises do need to reach 83 kg if your weight was 120kg and
                 //each exercise will make you lose 1kg and print the result;
 
- /*  for more information visit
+ /*  
+  
+ for more information visit
           http://www.youtube.com/c/AToZForLearning 
- */
+		  
+Visit our channel page on facebook
+          https://www.facebook.com/AToZForLearning/
+
+If you have any question in English or Arabic welcome to our facebook group 
+          https://www.facebook.com/groups/AToZForLearningProgramming/  
+			  
+		  
+		  */
         }
     
 }

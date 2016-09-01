@@ -33,12 +33,19 @@ namespace Challenge8
             Console.WriteLine("The condition result is {0}", myResult);
 
 
+ /*  
+  
+ for more information visit
+          http://www.youtube.com/c/AToZForLearning 
+		  
+Visit our channel page on facebook
+          https://www.facebook.com/AToZForLearning/
 
-            /*  for more information visit
-               http://www.youtube.com/c/AToZForLearning 
-            */
-
-
+If you have any question in English or Arabic welcome to our facebook group 
+          https://www.facebook.com/groups/AToZForLearningProgramming/  
+			  
+		  
+		  */
             Console.ReadKey();
         }
     }
