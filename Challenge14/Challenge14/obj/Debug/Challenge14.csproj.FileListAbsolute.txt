@@ -1,0 +1,6 @@
+D:\Visual Studio Codes\Challenge14\Challenge14\bin\Debug\Challenge14.exe.config
+D:\Visual Studio Codes\Challenge14\Challenge14\bin\Debug\Challenge14.exe
+D:\Visual Studio Codes\Challenge14\Challenge14\bin\Debug\Challenge14.pdb
+D:\Visual Studio Codes\Challenge14\Challenge14\obj\Debug\Challenge14.csprojResolveAssemblyReference.cache
+D:\Visual Studio Codes\Challenge14\Challenge14\obj\Debug\Challenge14.exe
+D:\Visual Studio Codes\Challenge14\Challenge14\obj\Debug\Challenge14.pdb

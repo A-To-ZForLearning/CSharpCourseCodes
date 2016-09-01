@@ -1,0 +1,5 @@
+D:\Visual Studio Codes\Challenge17\Challenge17\bin\Debug\Challenge17.exe.config
+D:\Visual Studio Codes\Challenge17\Challenge17\bin\Debug\Challenge17.exe
+D:\Visual Studio Codes\Challenge17\Challenge17\bin\Debug\Challenge17.pdb
+D:\Visual Studio Codes\Challenge17\Challenge17\obj\Debug\Challenge17.exe
+D:\Visual Studio Codes\Challenge17\Challenge17\obj\Debug\Challenge17.pdb

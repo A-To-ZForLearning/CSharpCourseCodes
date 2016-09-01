@@ -1,0 +1,6 @@
+D:\Visual Studio Codes\Explicit Conversion-Checked_Unchecked\Explicit Conversion-Checked_Unchecked\bin\Debug\Explicit Conversion-Checked_Unchecked.exe.config
+D:\Visual Studio Codes\Explicit Conversion-Checked_Unchecked\Explicit Conversion-Checked_Unchecked\bin\Debug\Explicit Conversion-Checked_Unchecked.exe
+D:\Visual Studio Codes\Explicit Conversion-Checked_Unchecked\Explicit Conversion-Checked_Unchecked\bin\Debug\Explicit Conversion-Checked_Unchecked.pdb
+D:\Visual Studio Codes\Explicit Conversion-Checked_Unchecked\Explicit Conversion-Checked_Unchecked\obj\Debug\Explicit Conversion-Checked_Unchecked.csprojResolveAssemblyReference.cache
+D:\Visual Studio Codes\Explicit Conversion-Checked_Unchecked\Explicit Conversion-Checked_Unchecked\obj\Debug\Explicit Conversion-Checked_Unchecked.exe
+D:\Visual Studio Codes\Explicit Conversion-Checked_Unchecked\Explicit Conversion-Checked_Unchecked\obj\Debug\Explicit Conversion-Checked_Unchecked.pdb
