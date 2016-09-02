@@ -1,0 +1,5 @@
+D:\Visual Studio Codes\Input_Functions\Input_Functions\bin\Debug\Input_Functions.exe.config
+D:\Visual Studio Codes\Input_Functions\Input_Functions\bin\Debug\Input_Functions.exe
+D:\Visual Studio Codes\Input_Functions\Input_Functions\bin\Debug\Input_Functions.pdb
+D:\Visual Studio Codes\Input_Functions\Input_Functions\obj\Debug\Input_Functions.exe
+D:\Visual Studio Codes\Input_Functions\Input_Functions\obj\Debug\Input_Functions.pdb
