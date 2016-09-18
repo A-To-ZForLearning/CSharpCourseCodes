@@ -1,0 +1,5 @@
+D:\Visual Studio Codes\Struct\Struct\bin\Debug\Struct.exe.config
+D:\Visual Studio Codes\Struct\Struct\bin\Debug\Struct.exe
+D:\Visual Studio Codes\Struct\Struct\bin\Debug\Struct.pdb
+D:\Visual Studio Codes\Struct\Struct\obj\Debug\Struct.exe
+D:\Visual Studio Codes\Struct\Struct\obj\Debug\Struct.pdb
