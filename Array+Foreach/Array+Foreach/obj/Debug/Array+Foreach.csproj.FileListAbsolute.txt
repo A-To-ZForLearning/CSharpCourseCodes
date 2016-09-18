@@ -1,0 +1,5 @@
+D:\Visual Studio Codes\Array+Foreach\Array+Foreach\bin\Debug\Array+Foreach.exe.config
+D:\Visual Studio Codes\Array+Foreach\Array+Foreach\bin\Debug\Array+Foreach.exe
+D:\Visual Studio Codes\Array+Foreach\Array+Foreach\bin\Debug\Array+Foreach.pdb
+D:\Visual Studio Codes\Array+Foreach\Array+Foreach\obj\Debug\Array+Foreach.exe
+D:\Visual Studio Codes\Array+Foreach\Array+Foreach\obj\Debug\Array+Foreach.pdb
