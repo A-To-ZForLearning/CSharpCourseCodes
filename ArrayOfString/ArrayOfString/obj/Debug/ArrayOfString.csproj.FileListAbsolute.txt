@@ -1,0 +1,5 @@
+D:\Visual Studio Codes\ArrayOfString\ArrayOfString\bin\Debug\ArrayOfString.exe.config
+D:\Visual Studio Codes\ArrayOfString\ArrayOfString\bin\Debug\ArrayOfString.exe
+D:\Visual Studio Codes\ArrayOfString\ArrayOfString\bin\Debug\ArrayOfString.pdb
+D:\Visual Studio Codes\ArrayOfString\ArrayOfString\obj\Debug\ArrayOfString.exe
+D:\Visual Studio Codes\ArrayOfString\ArrayOfString\obj\Debug\ArrayOfString.pdb
