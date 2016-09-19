@@ -1,0 +1,6 @@
+D:\Visual Studio Codes\JaggedAyyay\JaggedAyyay\bin\Debug\JaggedAyyay.exe.config
+D:\Visual Studio Codes\JaggedAyyay\JaggedAyyay\bin\Debug\JaggedAyyay.exe
+D:\Visual Studio Codes\JaggedAyyay\JaggedAyyay\bin\Debug\JaggedAyyay.pdb
+D:\Visual Studio Codes\JaggedAyyay\JaggedAyyay\obj\Debug\JaggedAyyay.csprojResolveAssemblyReference.cache
+D:\Visual Studio Codes\JaggedAyyay\JaggedAyyay\obj\Debug\JaggedAyyay.exe
+D:\Visual Studio Codes\JaggedAyyay\JaggedAyyay\obj\Debug\JaggedAyyay.pdb
