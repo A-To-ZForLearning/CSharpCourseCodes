@@ -1,0 +1,6 @@
+D:\Visual Studio Codes\StringManipulationOperations\StringManipulationOperations\bin\Debug\StringManipulationOperations.exe.config
+D:\Visual Studio Codes\StringManipulationOperations\StringManipulationOperations\bin\Debug\StringManipulationOperations.exe
+D:\Visual Studio Codes\StringManipulationOperations\StringManipulationOperations\bin\Debug\StringManipulationOperations.pdb
+D:\Visual Studio Codes\StringManipulationOperations\StringManipulationOperations\obj\Debug\StringManipulationOperations.csprojResolveAssemblyReference.cache
+D:\Visual Studio Codes\StringManipulationOperations\StringManipulationOperations\obj\Debug\StringManipulationOperations.exe
+D:\Visual Studio Codes\StringManipulationOperations\StringManipulationOperations\obj\Debug\StringManipulationOperations.pdb
