@@ -1,0 +1,6 @@
+D:\Visual Studio Codes\ToUpperToLowerTrimOperations\ToUpperToLowerTrimOperations\bin\Debug\ToUpperToLowerTrimOperations.exe.config
+D:\Visual Studio Codes\ToUpperToLowerTrimOperations\ToUpperToLowerTrimOperations\bin\Debug\ToUpperToLowerTrimOperations.exe
+D:\Visual Studio Codes\ToUpperToLowerTrimOperations\ToUpperToLowerTrimOperations\bin\Debug\ToUpperToLowerTrimOperations.pdb
+D:\Visual Studio Codes\ToUpperToLowerTrimOperations\ToUpperToLowerTrimOperations\obj\Debug\ToUpperToLowerTrimOperations.csprojResolveAssemblyReference.cache
+D:\Visual Studio Codes\ToUpperToLowerTrimOperations\ToUpperToLowerTrimOperations\obj\Debug\ToUpperToLowerTrimOperations.exe
+D:\Visual Studio Codes\ToUpperToLowerTrimOperations\ToUpperToLowerTrimOperations\obj\Debug\ToUpperToLowerTrimOperations.pdb
