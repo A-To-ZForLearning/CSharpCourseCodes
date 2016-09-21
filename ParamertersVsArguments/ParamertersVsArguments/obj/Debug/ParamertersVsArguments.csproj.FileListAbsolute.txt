@@ -1,0 +1,6 @@
+D:\Visual Studio Codes\ParamertersVsArguments\ParamertersVsArguments\bin\Debug\ParamertersVsArguments.exe.config
+D:\Visual Studio Codes\ParamertersVsArguments\ParamertersVsArguments\bin\Debug\ParamertersVsArguments.exe
+D:\Visual Studio Codes\ParamertersVsArguments\ParamertersVsArguments\bin\Debug\ParamertersVsArguments.pdb
+D:\Visual Studio Codes\ParamertersVsArguments\ParamertersVsArguments\obj\Debug\ParamertersVsArguments.csprojResolveAssemblyReference.cache
+D:\Visual Studio Codes\ParamertersVsArguments\ParamertersVsArguments\obj\Debug\ParamertersVsArguments.exe
+D:\Visual Studio Codes\ParamertersVsArguments\ParamertersVsArguments\obj\Debug\ParamertersVsArguments.pdb
