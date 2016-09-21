@@ -1,0 +1,6 @@
+D:\Visual Studio Codes\Challnge27\Challnge27\bin\Debug\Challnge27.exe.config
+D:\Visual Studio Codes\Challnge27\Challnge27\bin\Debug\Challnge27.exe
+D:\Visual Studio Codes\Challnge27\Challnge27\bin\Debug\Challnge27.pdb
+D:\Visual Studio Codes\Challnge27\Challnge27\obj\Debug\Challnge27.csprojResolveAssemblyReference.cache
+D:\Visual Studio Codes\Challnge27\Challnge27\obj\Debug\Challnge27.exe
+D:\Visual Studio Codes\Challnge27\Challnge27\obj\Debug\Challnge27.pdb
