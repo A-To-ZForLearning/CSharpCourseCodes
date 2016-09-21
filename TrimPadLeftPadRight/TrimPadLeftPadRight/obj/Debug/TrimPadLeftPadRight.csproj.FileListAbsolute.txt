@@ -1,0 +1,6 @@
+D:\Visual Studio Codes\TrimPadLeftPadRight\TrimPadLeftPadRight\bin\Debug\TrimPadLeftPadRight.exe.config
+D:\Visual Studio Codes\TrimPadLeftPadRight\TrimPadLeftPadRight\obj\Debug\TrimPadLeftPadRight.csprojResolveAssemblyReference.cache
+D:\Visual Studio Codes\TrimPadLeftPadRight\TrimPadLeftPadRight\bin\Debug\TrimPadLeftPadRight.exe
+D:\Visual Studio Codes\TrimPadLeftPadRight\TrimPadLeftPadRight\bin\Debug\TrimPadLeftPadRight.pdb
+D:\Visual Studio Codes\TrimPadLeftPadRight\TrimPadLeftPadRight\obj\Debug\TrimPadLeftPadRight.exe
+D:\Visual Studio Codes\TrimPadLeftPadRight\TrimPadLeftPadRight\obj\Debug\TrimPadLeftPadRight.pdb
