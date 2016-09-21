@@ -1,0 +1,6 @@
+D:\Visual Studio Codes\Out_Parameters\Out_Parameters\bin\Debug\Out_Parameters.exe.config
+D:\Visual Studio Codes\Out_Parameters\Out_Parameters\bin\Debug\Out_Parameters.exe
+D:\Visual Studio Codes\Out_Parameters\Out_Parameters\bin\Debug\Out_Parameters.pdb
+D:\Visual Studio Codes\Out_Parameters\Out_Parameters\obj\Debug\Out_Parameters.csprojResolveAssemblyReference.cache
+D:\Visual Studio Codes\Out_Parameters\Out_Parameters\obj\Debug\Out_Parameters.exe
+D:\Visual Studio Codes\Out_Parameters\Out_Parameters\obj\Debug\Out_Parameters.pdb
