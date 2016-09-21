@@ -1,0 +1,6 @@
+D:\Visual Studio Codes\ReturnValues\ReturnValues\bin\Debug\ReturnValues.exe.config
+D:\Visual Studio Codes\ReturnValues\ReturnValues\bin\Debug\ReturnValues.exe
+D:\Visual Studio Codes\ReturnValues\ReturnValues\bin\Debug\ReturnValues.pdb
+D:\Visual Studio Codes\ReturnValues\ReturnValues\obj\Debug\ReturnValues.csprojResolveAssemblyReference.cache
+D:\Visual Studio Codes\ReturnValues\ReturnValues\obj\Debug\ReturnValues.exe
+D:\Visual Studio Codes\ReturnValues\ReturnValues\obj\Debug\ReturnValues.pdb
