@@ -1,0 +1,6 @@
+D:\Visual Studio Codes\FirstFunction\FirstFunction\bin\Debug\FirstFunction.exe.config
+D:\Visual Studio Codes\FirstFunction\FirstFunction\bin\Debug\FirstFunction.exe
+D:\Visual Studio Codes\FirstFunction\FirstFunction\bin\Debug\FirstFunction.pdb
+D:\Visual Studio Codes\FirstFunction\FirstFunction\obj\Debug\FirstFunction.csprojResolveAssemblyReference.cache
+D:\Visual Studio Codes\FirstFunction\FirstFunction\obj\Debug\FirstFunction.exe
+D:\Visual Studio Codes\FirstFunction\FirstFunction\obj\Debug\FirstFunction.pdb
