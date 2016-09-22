@@ -1,0 +1,6 @@
+D:\Visual Studio Codes\MainMethod\MainMethod\bin\Debug\MainMethod.exe.config
+D:\Visual Studio Codes\MainMethod\MainMethod\obj\Debug\MainMethod.csprojResolveAssemblyReference.cache
+D:\Visual Studio Codes\MainMethod\MainMethod\bin\Debug\MainMethod.exe
+D:\Visual Studio Codes\MainMethod\MainMethod\bin\Debug\MainMethod.pdb
+D:\Visual Studio Codes\MainMethod\MainMethod\obj\Debug\MainMethod.exe
+D:\Visual Studio Codes\MainMethod\MainMethod\obj\Debug\MainMethod.pdb
