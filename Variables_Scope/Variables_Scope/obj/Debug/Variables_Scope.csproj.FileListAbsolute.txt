@@ -1,0 +1,6 @@
+D:\Visual Studio Codes\Variables_Scope\Variables_Scope\bin\Debug\Variables_Scope.exe.config
+D:\Visual Studio Codes\Variables_Scope\Variables_Scope\bin\Debug\Variables_Scope.exe
+D:\Visual Studio Codes\Variables_Scope\Variables_Scope\bin\Debug\Variables_Scope.pdb
+D:\Visual Studio Codes\Variables_Scope\Variables_Scope\obj\Debug\Variables_Scope.csprojResolveAssemblyReference.cache
+D:\Visual Studio Codes\Variables_Scope\Variables_Scope\obj\Debug\Variables_Scope.exe
+D:\Visual Studio Codes\Variables_Scope\Variables_Scope\obj\Debug\Variables_Scope.pdb
