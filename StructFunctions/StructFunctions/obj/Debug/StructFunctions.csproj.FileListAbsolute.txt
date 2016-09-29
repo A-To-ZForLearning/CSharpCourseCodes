@@ -1,0 +1,6 @@
+D:\Visual Studio Codes\StructFunctions\StructFunctions\bin\Debug\StructFunctions.exe.config
+D:\Visual Studio Codes\StructFunctions\StructFunctions\bin\Debug\StructFunctions.exe
+D:\Visual Studio Codes\StructFunctions\StructFunctions\bin\Debug\StructFunctions.pdb
+D:\Visual Studio Codes\StructFunctions\StructFunctions\obj\Debug\StructFunctions.csprojResolveAssemblyReference.cache
+D:\Visual Studio Codes\StructFunctions\StructFunctions\obj\Debug\StructFunctions.exe
+D:\Visual Studio Codes\StructFunctions\StructFunctions\obj\Debug\StructFunctions.pdb
