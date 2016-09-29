@@ -1,0 +1,6 @@
+D:\Visual Studio Codes\DelegateType\DelegateType\bin\Debug\DelegateType.exe.config
+D:\Visual Studio Codes\DelegateType\DelegateType\bin\Debug\DelegateType.exe
+D:\Visual Studio Codes\DelegateType\DelegateType\bin\Debug\DelegateType.pdb
+D:\Visual Studio Codes\DelegateType\DelegateType\obj\Debug\DelegateType.csprojResolveAssemblyReference.cache
+D:\Visual Studio Codes\DelegateType\DelegateType\obj\Debug\DelegateType.exe
+D:\Visual Studio Codes\DelegateType\DelegateType\obj\Debug\DelegateType.pdb
