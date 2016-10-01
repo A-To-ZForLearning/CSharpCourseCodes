@@ -1,0 +1,5 @@
+D:\Visual Studio Codes\DebuggingMethods\DebuggingMethods\bin\Release\DebuggingMethods.exe.config
+D:\Visual Studio Codes\DebuggingMethods\DebuggingMethods\bin\Release\DebuggingMethods.exe
+D:\Visual Studio Codes\DebuggingMethods\DebuggingMethods\bin\Release\DebuggingMethods.pdb
+D:\Visual Studio Codes\DebuggingMethods\DebuggingMethods\obj\Release\DebuggingMethods.exe
+D:\Visual Studio Codes\DebuggingMethods\DebuggingMethods\obj\Release\DebuggingMethods.pdb
