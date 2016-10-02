@@ -1,0 +1,6 @@
+D:\Visual Studio Codes\AssertMethod\AssertMethod\bin\Debug\AssertMethod.exe.config
+D:\Visual Studio Codes\AssertMethod\AssertMethod\bin\Debug\AssertMethod.exe
+D:\Visual Studio Codes\AssertMethod\AssertMethod\bin\Debug\AssertMethod.pdb
+D:\Visual Studio Codes\AssertMethod\AssertMethod\obj\Debug\AssertMethod.csprojResolveAssemblyReference.cache
+D:\Visual Studio Codes\AssertMethod\AssertMethod\obj\Debug\AssertMethod.exe
+D:\Visual Studio Codes\AssertMethod\AssertMethod\obj\Debug\AssertMethod.pdb

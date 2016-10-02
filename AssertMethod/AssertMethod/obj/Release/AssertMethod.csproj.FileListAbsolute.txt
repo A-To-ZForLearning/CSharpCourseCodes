@@ -1,0 +1,5 @@
+D:\Visual Studio Codes\AssertMethod\AssertMethod\bin\Release\AssertMethod.exe.config
+D:\Visual Studio Codes\AssertMethod\AssertMethod\bin\Release\AssertMethod.exe
+D:\Visual Studio Codes\AssertMethod\AssertMethod\bin\Release\AssertMethod.pdb
+D:\Visual Studio Codes\AssertMethod\AssertMethod\obj\Release\AssertMethod.exe
+D:\Visual Studio Codes\AssertMethod\AssertMethod\obj\Release\AssertMethod.pdb
