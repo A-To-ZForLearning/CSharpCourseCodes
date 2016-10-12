@@ -1,0 +1,5 @@
+D:\Visual Studio Codes\Multicasting_Delegate\Multicasting_Delegate\bin\Debug\Multicasting_Delegate.exe.config
+D:\Visual Studio Codes\Multicasting_Delegate\Multicasting_Delegate\bin\Debug\Multicasting_Delegate.exe
+D:\Visual Studio Codes\Multicasting_Delegate\Multicasting_Delegate\bin\Debug\Multicasting_Delegate.pdb
+D:\Visual Studio Codes\Multicasting_Delegate\Multicasting_Delegate\obj\Debug\Multicasting_Delegate.exe
+D:\Visual Studio Codes\Multicasting_Delegate\Multicasting_Delegate\obj\Debug\Multicasting_Delegate.pdb
