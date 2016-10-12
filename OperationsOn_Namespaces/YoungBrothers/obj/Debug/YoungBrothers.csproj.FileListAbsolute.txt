@@ -1,0 +1,5 @@
+D:\Visual Studio Codes\OperationsOn_Namespaces\YoungBrothers\bin\Debug\YoungBrothers.dll
+D:\Visual Studio Codes\OperationsOn_Namespaces\YoungBrothers\bin\Debug\YoungBrothers.pdb
+D:\Visual Studio Codes\OperationsOn_Namespaces\YoungBrothers\obj\Debug\YoungBrothers.csprojResolveAssemblyReference.cache
+D:\Visual Studio Codes\OperationsOn_Namespaces\YoungBrothers\obj\Debug\YoungBrothers.dll
+D:\Visual Studio Codes\OperationsOn_Namespaces\YoungBrothers\obj\Debug\YoungBrothers.pdb

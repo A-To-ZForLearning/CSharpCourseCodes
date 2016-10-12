@@ -1,0 +1,10 @@
+D:\Visual Studio Codes\OperationsOn_Namespaces\OperationsOn_Namespaces\bin\Debug\OperationsOn_Namespaces.exe.config
+D:\Visual Studio Codes\OperationsOn_Namespaces\OperationsOn_Namespaces\bin\Debug\OperationsOn_Namespaces.exe
+D:\Visual Studio Codes\OperationsOn_Namespaces\OperationsOn_Namespaces\bin\Debug\OperationsOn_Namespaces.pdb
+D:\Visual Studio Codes\OperationsOn_Namespaces\OperationsOn_Namespaces\obj\Debug\OperationsOn_Namespaces.csprojResolveAssemblyReference.cache
+D:\Visual Studio Codes\OperationsOn_Namespaces\OperationsOn_Namespaces\obj\Debug\OperationsOn_Namespaces.exe
+D:\Visual Studio Codes\OperationsOn_Namespaces\OperationsOn_Namespaces\obj\Debug\OperationsOn_Namespaces.pdb
+D:\Visual Studio Codes\OperationsOn_Namespaces\OperationsOn_Namespaces\bin\Debug\OldBrothers.dll
+D:\Visual Studio Codes\OperationsOn_Namespaces\OperationsOn_Namespaces\bin\Debug\YoungBrothers.dll
+D:\Visual Studio Codes\OperationsOn_Namespaces\OperationsOn_Namespaces\bin\Debug\OldBrothers.pdb
+D:\Visual Studio Codes\OperationsOn_Namespaces\OperationsOn_Namespaces\bin\Debug\YoungBrothers.pdb

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperationsOn_Namespaces", "OperationsOn_Namespaces\OperationsOn_Namespaces.csproj", "{144C7068-9F41-4EF4-A64F-52791153730B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YoungBrothers", "YoungBrothers\YoungBrothers.csproj", "{6D05FFA7-8DEB-4CC0-9F84-3B411F27D988}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OldBrothers", "OldBrothers\OldBrothers.csproj", "{2524030B-F118-43A2-BC16-24B3E70A8D64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{144C7068-9F41-4EF4-A64F-52791153730B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{144C7068-9F41-4EF4-A64F-52791153730B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{144C7068-9F41-4EF4-A64F-52791153730B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{144C7068-9F41-4EF4-A64F-52791153730B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D05FFA7-8DEB-4CC0-9F84-3B411F27D988}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D05FFA7-8DEB-4CC0-9F84-3B411F27D988}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D05FFA7-8DEB-4CC0-9F84-3B411F27D988}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D05FFA7-8DEB-4CC0-9F84-3B411F27D988}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2524030B-F118-43A2-BC16-24B3E70A8D64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2524030B-F118-43A2-BC16-24B3E70A8D64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2524030B-F118-43A2-BC16-24B3E70A8D64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2524030B-F118-43A2-BC16-24B3E70A8D64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
