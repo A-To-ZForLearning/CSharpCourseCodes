@@ -1,0 +1,6 @@
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\Goto\Goto\bin\Debug\Goto.exe.config
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\Goto\Goto\bin\Debug\Goto.exe
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\Goto\Goto\bin\Debug\Goto.pdb
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\Goto\Goto\obj\Debug\Goto.csprojResolveAssemblyReference.cache
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\Goto\Goto\obj\Debug\Goto.exe
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\Goto\Goto\obj\Debug\Goto.pdb
