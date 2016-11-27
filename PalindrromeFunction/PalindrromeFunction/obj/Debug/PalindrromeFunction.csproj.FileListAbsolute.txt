@@ -1,0 +1,6 @@
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\PalindrromeFunction\PalindrromeFunction\bin\Debug\PalindrromeFunction.exe.config
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\PalindrromeFunction\PalindrromeFunction\bin\Debug\PalindrromeFunction.exe
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\PalindrromeFunction\PalindrromeFunction\bin\Debug\PalindrromeFunction.pdb
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\PalindrromeFunction\PalindrromeFunction\obj\Debug\PalindrromeFunction.csprojResolveAssemblyReference.cache
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\PalindrromeFunction\PalindrromeFunction\obj\Debug\PalindrromeFunction.exe
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\PalindrromeFunction\PalindrromeFunction\obj\Debug\PalindrromeFunction.pdb
