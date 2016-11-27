@@ -1,0 +1,6 @@
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\StaticClass\StaticClass\bin\Debug\StaticClass.exe.config
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\StaticClass\StaticClass\bin\Debug\StaticClass.exe
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\StaticClass\StaticClass\bin\Debug\StaticClass.pdb
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\StaticClass\StaticClass\obj\Debug\StaticClass.csprojResolveAssemblyReference.cache
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\StaticClass\StaticClass\obj\Debug\StaticClass.exe
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\StaticClass\StaticClass\obj\Debug\StaticClass.pdb
