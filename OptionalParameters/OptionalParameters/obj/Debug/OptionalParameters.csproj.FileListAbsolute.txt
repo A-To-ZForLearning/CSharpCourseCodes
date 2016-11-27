@@ -1,0 +1,6 @@
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\OptionalParameters\OptionalParameters\bin\Debug\OptionalParameters.exe.config
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\OptionalParameters\OptionalParameters\bin\Debug\OptionalParameters.exe
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\OptionalParameters\OptionalParameters\bin\Debug\OptionalParameters.pdb
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\OptionalParameters\OptionalParameters\obj\Debug\OptionalParameters.csprojResolveAssemblyReference.cache
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\OptionalParameters\OptionalParameters\obj\Debug\OptionalParameters.exe
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\OptionalParameters\OptionalParameters\obj\Debug\OptionalParameters.pdb
