@@ -1,0 +1,6 @@
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\RecursiveFunction\RecursiveFunction\bin\Debug\RecursiveFunction.exe.config
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\RecursiveFunction\RecursiveFunction\bin\Debug\RecursiveFunction.exe
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\RecursiveFunction\RecursiveFunction\bin\Debug\RecursiveFunction.pdb
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\RecursiveFunction\RecursiveFunction\obj\Debug\RecursiveFunction.csprojResolveAssemblyReference.cache
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\RecursiveFunction\RecursiveFunction\obj\Debug\RecursiveFunction.exe
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\RecursiveFunction\RecursiveFunction\obj\Debug\RecursiveFunction.pdb
