@@ -1,0 +1,6 @@
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\NestedClasses\NestedClasses\bin\Debug\NestedClasses.exe.config
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\NestedClasses\NestedClasses\bin\Debug\NestedClasses.exe
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\NestedClasses\NestedClasses\bin\Debug\NestedClasses.pdb
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\NestedClasses\NestedClasses\obj\Debug\NestedClasses.csprojResolveAssemblyReference.cache
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\NestedClasses\NestedClasses\obj\Debug\NestedClasses.exe
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\NestedClasses\NestedClasses\obj\Debug\NestedClasses.pdb
