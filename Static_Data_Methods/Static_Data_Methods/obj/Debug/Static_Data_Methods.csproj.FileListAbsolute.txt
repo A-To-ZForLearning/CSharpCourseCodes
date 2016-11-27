@@ -1,0 +1,6 @@
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\Static_Data_Methods\Static_Data_Methods\bin\Debug\Static_Data_Methods.exe.config
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\Static_Data_Methods\Static_Data_Methods\bin\Debug\Static_Data_Methods.exe
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\Static_Data_Methods\Static_Data_Methods\bin\Debug\Static_Data_Methods.pdb
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\Static_Data_Methods\Static_Data_Methods\obj\Debug\Static_Data_Methods.csprojResolveAssemblyReference.cache
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\Static_Data_Methods\Static_Data_Methods\obj\Debug\Static_Data_Methods.exe
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\Static_Data_Methods\Static_Data_Methods\obj\Debug\Static_Data_Methods.pdb
