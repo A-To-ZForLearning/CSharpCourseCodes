@@ -1,0 +1,6 @@
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\MyFirsstProjectIn2017Vs\MyFirsstProjectIn2017Vs\bin\Debug\MyFirsstProjectIn2017Vs.exe.config
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\MyFirsstProjectIn2017Vs\MyFirsstProjectIn2017Vs\bin\Debug\MyFirsstProjectIn2017Vs.exe
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\MyFirsstProjectIn2017Vs\MyFirsstProjectIn2017Vs\bin\Debug\MyFirsstProjectIn2017Vs.pdb
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\MyFirsstProjectIn2017Vs\MyFirsstProjectIn2017Vs\obj\Debug\MyFirsstProjectIn2017Vs.csprojResolveAssemblyReference.cache
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\MyFirsstProjectIn2017Vs\MyFirsstProjectIn2017Vs\obj\Debug\MyFirsstProjectIn2017Vs.exe
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\MyFirsstProjectIn2017Vs\MyFirsstProjectIn2017Vs\obj\Debug\MyFirsstProjectIn2017Vs.pdb

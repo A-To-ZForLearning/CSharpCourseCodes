@@ -1,0 +1,6 @@
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\Default_ParametrizedConstructor\Default_ParametrizedConstructor\bin\Debug\Default_ParametrizedConstructor.exe.config
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\Default_ParametrizedConstructor\Default_ParametrizedConstructor\bin\Debug\Default_ParametrizedConstructor.exe
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\Default_ParametrizedConstructor\Default_ParametrizedConstructor\bin\Debug\Default_ParametrizedConstructor.pdb
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\Default_ParametrizedConstructor\Default_ParametrizedConstructor\obj\Debug\Default_ParametrizedConstructor.csprojResolveAssemblyReference.cache
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\Default_ParametrizedConstructor\Default_ParametrizedConstructor\obj\Debug\Default_ParametrizedConstructor.exe
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\Default_ParametrizedConstructor\Default_ParametrizedConstructor\obj\Debug\Default_ParametrizedConstructor.pdb
