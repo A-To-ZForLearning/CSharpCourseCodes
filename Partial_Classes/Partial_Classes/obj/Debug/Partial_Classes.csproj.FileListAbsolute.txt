@@ -1,0 +1,6 @@
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\Partial_Classes\Partial_Classes\bin\Debug\Partial_Classes.exe.config
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\Partial_Classes\Partial_Classes\bin\Debug\Partial_Classes.exe
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\Partial_Classes\Partial_Classes\bin\Debug\Partial_Classes.pdb
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\Partial_Classes\Partial_Classes\obj\Debug\Partial_Classes.csprojResolveAssemblyReference.cache
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\Partial_Classes\Partial_Classes\obj\Debug\Partial_Classes.exe
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\Partial_Classes\Partial_Classes\obj\Debug\Partial_Classes.pdb
