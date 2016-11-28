@@ -1,0 +1,6 @@
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\EnacapsulationApp\EnacapsulationApp\bin\Debug\EnacapsulationApp.exe.config
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\EnacapsulationApp\EnacapsulationApp\bin\Debug\EnacapsulationApp.exe
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\EnacapsulationApp\EnacapsulationApp\bin\Debug\EnacapsulationApp.pdb
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\EnacapsulationApp\EnacapsulationApp\obj\Debug\EnacapsulationApp.csprojResolveAssemblyReference.cache
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\EnacapsulationApp\EnacapsulationApp\obj\Debug\EnacapsulationApp.exe
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\EnacapsulationApp\EnacapsulationApp\obj\Debug\EnacapsulationApp.pdb
