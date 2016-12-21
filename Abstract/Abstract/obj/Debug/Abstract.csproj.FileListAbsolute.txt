@@ -1,0 +1,6 @@
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\Abstract\Abstract\bin\Debug\Abstract.exe.config
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\Abstract\Abstract\bin\Debug\Abstract.exe
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\Abstract\Abstract\bin\Debug\Abstract.pdb
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\Abstract\Abstract\obj\Debug\Abstract.csprojResolveAssemblyReference.cache
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\Abstract\Abstract\obj\Debug\Abstract.exe
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\Abstract\Abstract\obj\Debug\Abstract.pdb

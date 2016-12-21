@@ -1,0 +1,6 @@
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\MyInheritance\MyInheritance\bin\Debug\MyInheritance.exe.config
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\MyInheritance\MyInheritance\bin\Debug\MyInheritance.exe
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\MyInheritance\MyInheritance\bin\Debug\MyInheritance.pdb
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\MyInheritance\MyInheritance\obj\Debug\MyInheritance.csprojResolveAssemblyReference.cache
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\MyInheritance\MyInheritance\obj\Debug\MyInheritance.exe
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\MyInheritance\MyInheritance\obj\Debug\MyInheritance.pdb

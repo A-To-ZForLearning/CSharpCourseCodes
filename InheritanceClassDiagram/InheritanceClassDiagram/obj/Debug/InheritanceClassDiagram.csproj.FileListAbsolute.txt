@@ -1,0 +1,6 @@
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\InheritanceClassDiagram\InheritanceClassDiagram\bin\Debug\InheritanceClassDiagram.exe.config
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\InheritanceClassDiagram\InheritanceClassDiagram\bin\Debug\InheritanceClassDiagram.exe
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\InheritanceClassDiagram\InheritanceClassDiagram\bin\Debug\InheritanceClassDiagram.pdb
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\InheritanceClassDiagram\InheritanceClassDiagram\obj\Debug\InheritanceClassDiagram.csprojResolveAssemblyReference.cache
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\InheritanceClassDiagram\InheritanceClassDiagram\obj\Debug\InheritanceClassDiagram.exe
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\InheritanceClassDiagram\InheritanceClassDiagram\obj\Debug\InheritanceClassDiagram.pdb

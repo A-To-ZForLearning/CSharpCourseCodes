@@ -1,0 +1,6 @@
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\Encapsulation\Encapsulation\bin\Debug\Encapsulation.exe.config
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\Encapsulation\Encapsulation\bin\Debug\Encapsulation.exe
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\Encapsulation\Encapsulation\bin\Debug\Encapsulation.pdb
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\Encapsulation\Encapsulation\obj\Debug\Encapsulation.csprojResolveAssemblyReference.cache
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\Encapsulation\Encapsulation\obj\Debug\Encapsulation.exe
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\Encapsulation\Encapsulation\obj\Debug\Encapsulation.pdb
