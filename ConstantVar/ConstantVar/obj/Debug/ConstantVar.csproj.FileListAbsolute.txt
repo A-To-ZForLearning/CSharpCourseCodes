@@ -1,0 +1,6 @@
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\ConstantVar\ConstantVar\bin\Debug\ConstantVar.exe.config
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\ConstantVar\ConstantVar\bin\Debug\ConstantVar.exe
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\ConstantVar\ConstantVar\bin\Debug\ConstantVar.pdb
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\ConstantVar\ConstantVar\obj\Debug\ConstantVar.csprojResolveAssemblyReference.cache
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\ConstantVar\ConstantVar\obj\Debug\ConstantVar.exe
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\ConstantVar\ConstantVar\obj\Debug\ConstantVar.pdb
