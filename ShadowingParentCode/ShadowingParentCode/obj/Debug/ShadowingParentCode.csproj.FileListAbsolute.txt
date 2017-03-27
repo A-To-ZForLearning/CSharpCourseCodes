@@ -1,0 +1,6 @@
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\ShadowingParentCode\ShadowingParentCode\bin\Debug\ShadowingParentCode.exe.config
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\ShadowingParentCode\ShadowingParentCode\bin\Debug\ShadowingParentCode.exe
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\ShadowingParentCode\ShadowingParentCode\bin\Debug\ShadowingParentCode.pdb
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\ShadowingParentCode\ShadowingParentCode\obj\Debug\ShadowingParentCode.csprojResolveAssemblyReference.cache
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\ShadowingParentCode\ShadowingParentCode\obj\Debug\ShadowingParentCode.exe
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\ShadowingParentCode\ShadowingParentCode\obj\Debug\ShadowingParentCode.pdb
