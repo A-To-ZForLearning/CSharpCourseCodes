@@ -1,0 +1,6 @@
+C:\Users\Nazar Al-Wattar\Documents\Visual Studio 2017\Projects\Company\Company\bin\Debug\Company.exe.config
+C:\Users\Nazar Al-Wattar\Documents\Visual Studio 2017\Projects\Company\Company\bin\Debug\Company.exe
+C:\Users\Nazar Al-Wattar\Documents\Visual Studio 2017\Projects\Company\Company\bin\Debug\Company.pdb
+C:\Users\Nazar Al-Wattar\Documents\Visual Studio 2017\Projects\Company\Company\obj\Debug\Company.exe
+C:\Users\Nazar Al-Wattar\Documents\Visual Studio 2017\Projects\Company\Company\obj\Debug\Company.pdb
+C:\Users\Nazar Al-Wattar\Documents\Visual Studio 2017\Projects\Company\Company\obj\Debug\Company.csprojResolveAssemblyReference.cache
