@@ -1,0 +1,6 @@
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\Composition\Composition\bin\Debug\Composition.exe.config
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\Composition\Composition\bin\Debug\Composition.exe
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\Composition\Composition\bin\Debug\Composition.pdb
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\Composition\Composition\obj\Debug\Composition.csprojResolveAssemblyReference.cache
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\Composition\Composition\obj\Debug\Composition.exe
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\Composition\Composition\obj\Debug\Composition.pdb

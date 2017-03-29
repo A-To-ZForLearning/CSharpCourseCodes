@@ -1,0 +1,6 @@
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\Machine\Machine\bin\Debug\Machine.exe.config
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\Machine\Machine\bin\Debug\Machine.exe
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\Machine\Machine\bin\Debug\Machine.pdb
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\Machine\Machine\obj\Debug\Machine.csprojResolveAssemblyReference.cache
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\Machine\Machine\obj\Debug\Machine.exe
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\Machine\Machine\obj\Debug\Machine.pdb

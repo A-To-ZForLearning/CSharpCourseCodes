@@ -1,0 +1,6 @@
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\ObjectBaseClass\ObjectBaseClass\bin\Debug\ObjectBaseClass.exe.config
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\ObjectBaseClass\ObjectBaseClass\bin\Debug\ObjectBaseClass.exe
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\ObjectBaseClass\ObjectBaseClass\bin\Debug\ObjectBaseClass.pdb
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\ObjectBaseClass\ObjectBaseClass\obj\Debug\ObjectBaseClass.csprojResolveAssemblyReference.cache
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\ObjectBaseClass\ObjectBaseClass\obj\Debug\ObjectBaseClass.exe
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\ObjectBaseClass\ObjectBaseClass\obj\Debug\ObjectBaseClass.pdb

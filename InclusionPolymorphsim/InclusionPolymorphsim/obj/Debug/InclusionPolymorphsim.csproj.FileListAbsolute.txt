@@ -1,0 +1,6 @@
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\InclusionPolymorphsim\InclusionPolymorphsim\bin\Debug\InclusionPolymorphsim.exe.config
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\InclusionPolymorphsim\InclusionPolymorphsim\bin\Debug\InclusionPolymorphsim.exe
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\InclusionPolymorphsim\InclusionPolymorphsim\bin\Debug\InclusionPolymorphsim.pdb
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\InclusionPolymorphsim\InclusionPolymorphsim\obj\Debug\InclusionPolymorphsim.csprojResolveAssemblyReference.cache
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\InclusionPolymorphsim\InclusionPolymorphsim\obj\Debug\InclusionPolymorphsim.exe
+c:\users\nazar al-wattar\documents\visual studio 2017\Projects\InclusionPolymorphsim\InclusionPolymorphsim\obj\Debug\InclusionPolymorphsim.pdb
